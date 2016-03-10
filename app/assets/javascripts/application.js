@@ -16,8 +16,8 @@
 //= require_tree .
 
 var markersArray = [];
-var SF_LAT = 37.7435841;
-var SF_LNG = -122.4897851;
+var SF_LAT = 3.1333;
+var SF_LNG = 101.7000;
 var QUERY_DELAY = 400;
 var inactive = false;
 

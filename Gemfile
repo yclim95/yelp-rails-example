@@ -28,7 +28,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 # Use pry for the console
-gem 'pry-rails', group: :development
+gem 'byebug'
 
 gem 'slim'
 
